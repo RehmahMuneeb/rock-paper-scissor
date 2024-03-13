@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: rgb(49, 49, 70);
+    color: #fff;
+    height: 5rem;
+    line-height: 5rem;
+    text-align: center;
+}
+.choice{
+    height: 100px;
+    width: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
